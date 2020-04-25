@@ -20,9 +20,11 @@ package JavaCore.task11.task1122;
 public class Solution {
     public static void main(String[] args) {
     }
-    public class ChessFigure{
+
+    public class ChessFigure {
 
     }
+
     public class King extends ChessFigure {
     }
 
